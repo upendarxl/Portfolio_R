@@ -7,7 +7,7 @@ headline: |
 ---
 
 <!-- this is a subheadline --> 
-I am a Student perusing Post graduate diploma in data analytics for business at St. Clair collage Windsor(Canada). I have completed my bachelors in computer science from Visvesvaraya Technological University (VTU) Belgaum, India. 
+I am a Student perusing Post graduate diploma in data analytics for business at St. Clair collage (Windsor, Canada). I have completed my bachelors in computer science from Visvesvaraya Technological University (VTU) Belgaum, India. 
 I have experience in following technologies and wanted to collaborate on the same.
 1. Data analysis using python and R.
 2. Automation using Uipath and .Net.
